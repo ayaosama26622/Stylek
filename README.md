@@ -40,8 +40,7 @@ check out, with a soft pastel design system and full light/dark theming.
 
 | Splash | Onboarding | Sign In | Sign Up |
 |:---:|:---:|:---:|:---:|
-|<img width="397" height="849" alt="image" src="https://github.com/user-attachments/assets/7e27fa6e-f942-4d3f-82d7-52e2a9bf3224" />
- <img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/a8c982e6-f279-452e-8426-1573023184df" />
+|<img width="397" height="849" alt="image" src="https://github.com/user-attachments/assets/7e27fa6e-f942-4d3f-82d7-52e2a9bf3224" /><img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/a8c982e6-f279-452e-8426-1573023184df" />
 | <img src="screenshots/onboarding.png" width="200"/> | <img src="screenshots/sign_in.png" width="200"/> | <img src="screenshots/sign_up.png" width="200"/> |
 
 | Forgot Password | Verification Code | New Password | Home |
