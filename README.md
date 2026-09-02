@@ -38,40 +38,52 @@ check out, with a soft pastel design system and full light/dark theming.
 
 <div align="center">
 
-| Home | Product Details | Checkout |
+| Splash | Onboarding | Sign In | Sign Up |
+|:---:|:---:|:---:|:---:|
+|<img width="397" height="849" alt="image" src="https://github.com/user-attachments/assets/7e27fa6e-f942-4d3f-82d7-52e2a9bf3224" />
+ <img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/a8c982e6-f279-452e-8426-1573023184df" />
+| <img src="screenshots/onboarding.png" width="200"/> | <img src="screenshots/sign_in.png" width="200"/> | <img src="screenshots/sign_up.png" width="200"/> |
+
+| Forgot Password | Verification Code | New Password | Home |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/forgot_password.png" width="200"/> | <img src="screenshots/verification_code.png" width="200"/> | <img src="screenshots/new_password.png" width="200"/> | <img src="screenshots/home.png" width="200"/> |
+
+| Categories | Search | Filter | Product Details |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/categories.png" width="200"/> | <img src="screenshots/search.png" width="200"/> | <img src="screenshots/filter.png" width="200"/> | <img src="screenshots/product_details.png" width="200"/> |
+
+| Favorites | Cart | Checkout | Invoice |
+|:---:|:---:|:---:|:---:|
+| <img src="screenshots/favorites.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/checkout.png" width="200"/> | <img src="screenshots/invoice.png" width="200"/> |
+
+| My Orders | Profile | Edit Profile |
 |:---:|:---:|:---:|
-| <img src="screenshots/home.png" width="220"/> | <img src="screenshots/details.png" width="220"/> | <img src="screenshots/checkout.png" width="220"/> |
+| <img src="screenshots/my_orders.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> | <img src="screenshots/edit_profile.png" width="200"/> |
 
 </div>
 
-> Replace the images above with real screenshots in a `screenshots/` folder.
+
 
 ## 📂 Project Structure
 
 ```
 lib/
- ├─ core/            # shared styles, widgets, routing, constants
+ ├─ core/                 # shared styles, widgets, routing, constants
  └─ features/
-     ├─ auth/
+     ├─ intro/            # splash & onboarding
+     ├─ auth/              # sign in / sign up
+     ├─ forgot password/
+     ├─ Verification code/
+     ├─ new password/
      ├─ home/
      ├─ categories/
-     ├─ filter/
      ├─ search/
-     ├─ details/
+     ├─ filter/
+     ├─ details/           # product details
+     ├─ favorites/
      ├─ cart/
      ├─ checkout/
-     ├─ favorites/
-     ├─ invoice/
+     ├─ invoice/           # invoice & my orders
      └─ profile/
 ```
-
-## 🚀 Getting Started
-
-```bash
-flutter pub get
-flutter run
-```
-
----
-
 <div align="center">Made with 💙 using Flutter</div>
