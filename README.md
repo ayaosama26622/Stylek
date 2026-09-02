@@ -36,31 +36,13 @@ check out, with a soft pastel design system and full light/dark theming.
 
 ## 📱 Screenshots
 
-<div align="center">
-
-| Splash | Onboarding | Sign In | Sign Up |
-|:---:|:---:|:---:|:---:|
-|<img width="397" height="849" alt="image" src="https://github.com/user-attachments/assets/7e27fa6e-f942-4d3f-82d7-52e2a9bf3224" /><img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/a8c982e6-f279-452e-8426-1573023184df" />
-| <img width="399" height="853" alt="image" src="https://github.com/user-attachments/assets/84d0b94d-043a-4bee-88cd-d98577584fac" /><img width="403" height="852" alt="image" src="https://github.com/user-attachments/assets/625a206f-4574-4526-b365-412ba47e1f34" /><img width="405" height="855" alt="image" src="https://github.com/user-attachments/assets/509ce3bc-0db8-428a-b7d8-f4e32f1378c9" />
- | <img src="screenshots/sign_in.png" width="200"/> | <img src="screenshots/sign_up.png" width="200"/> |
-
-| Forgot Password | Verification Code | New Password | Home |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/forgot_password.png" width="200"/> | <img src="screenshots/verification_code.png" width="200"/> | <img src="screenshots/new_password.png" width="200"/> | <img src="screenshots/home.png" width="200"/> |
-
-| Categories | Search | Filter | Product Details |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/categories.png" width="200"/> | <img src="screenshots/search.png" width="200"/> | <img src="screenshots/filter.png" width="200"/> | <img src="screenshots/product_details.png" width="200"/> |
-
-| Favorites | Cart | Checkout | Invoice |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/favorites.png" width="200"/> | <img src="screenshots/cart.png" width="200"/> | <img src="screenshots/checkout.png" width="200"/> | <img src="screenshots/invoice.png" width="200"/> |
-
-| My Orders | Profile | Edit Profile |
-|:---:|:---:|:---:|
-| <img src="screenshots/my_orders.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> | <img src="screenshots/edit_profile.png" width="200"/> |
-
-</div>
+          ================================Splash================================
+<img width="403" height="854" alt="image" src="https://github.com/user-attachments/assets/d709b820-207b-43eb-a3ee-eec60e57c410" />
+<img width="396" height="855" alt="image" src="https://github.com/user-attachments/assets/5731ecc7-9790-48bc-81c2-dd89d1b3957b" />
+          ================================Onboarding=============================
+<img width="406" height="858" alt="image" src="https://github.com/user-attachments/assets/7197d79d-d9d3-487d-a34a-2e256b6d5481" />
+<img width="405" height="851" alt="image" src="https://github.com/user-attachments/assets/4c915cfa-bba5-4aaf-9654-0538d5b351bf" />
+<img width="407" height="847" alt="image" src="https://github.com/user-attachments/assets/adbdb0fd-0ae3-454e-a85d-38ac340672e9" />
 
 
 
