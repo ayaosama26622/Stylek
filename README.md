@@ -38,8 +38,9 @@ check out, with a soft pastel design system and full light/dark theming.
 
                     ================================== Splash ==================================
 
-<img width="366" height="783" alt="image" src="https://github.com/user-attachments/assets/10e0c1e1-afac-4da6-be67-0a7425b22164" />
-<img width="368" height="782" alt="image" src="https://github.com/user-attachments/assets/9fee900a-d73d-4c35-9220-c45b97b83928" />
+<img width="397" height="849" alt="Screenshot 2026-09-02 122338" src="https://github.com/user-attachments/assets/5548ae7a-476f-4e79-8482-e99fa82fc0a2" />
+<img width="403" height="844" alt="Screenshot 2026-09-02 122615" src="https://github.com/user-attachments/assets/9ff1b472-fad9-443a-8a66-7a0968568aed" />
+
 
                     ================================== Onboarding ==============================
 
