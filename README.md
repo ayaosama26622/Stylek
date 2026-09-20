@@ -44,15 +44,16 @@ check out, with a soft pastel design system and full light/dark theming.
 
                     ================================== Onboarding ==============================
 
-<img width="368" height="779" alt="image" src="https://github.com/user-attachments/assets/489c12d2-6b2b-4b66-ba2c-402c85a5651b" />
-<img width="364" height="779" alt="image" src="https://github.com/user-attachments/assets/4bfb3f01-a423-43ff-9c34-7409a8ea0d70" />
-<img width="370" height="783" alt="image" src="https://github.com/user-attachments/assets/1e749561-9a03-4101-b5b8-6132816b4385" />
-<img width="368" height="780" alt="image" src="https://github.com/user-attachments/assets/89aa3e59-917a-4af3-a6dd-5489d83b4429" />
-<img width="369" height="786" alt="image" src="https://github.com/user-attachments/assets/e63036d9-451e-4f7c-94ee-6dae1a5115cf" />
-<img width="368" height="783" alt="image" src="https://github.com/user-attachments/assets/474145ad-57c9-4eaf-a50d-e4b2f06939c3" />
-<img width="368" height="781" alt="image" src="https://github.com/user-attachments/assets/c50bd11a-b189-4aaa-b514-1e1facf70ffd" />
-<img width="365" height="781" alt="image" src="https://github.com/user-attachments/assets/477ae21c-64ed-48bd-8445-998179c7d504" />
-<img width="370" height="780" alt="image" src="https://github.com/user-attachments/assets/c22e8628-4046-4ae9-a79c-e828c532dfd9" />
+<img width="368" height="781" alt="Screenshot 2026-09-02 142159" src="https://github.com/user-attachments/assets/2067d083-09e1-4e68-bde1-0da971e3ef36" />
+<img width="370" height="780" alt="Screenshot 2026-09-02 142247" src="https://github.com/user-attachments/assets/bc5d49e2-ec8a-4bea-a296-97ca7ff33df5" />
+<img width="365" height="781" alt="Screenshot 2026-09-02 142224" src="https://github.com/user-attachments/assets/e6df026d-3dd3-4420-a453-7b6772c76240" />
+<img width="368" height="783" alt="Screenshot 2026-09-02 143027" src="https://github.com/user-attachments/assets/a6fbd530-e7cb-43e0-852e-b98371410132" />
+<img width="369" height="786" alt="Screenshot 2026-09-02 143010" src="https://github.com/user-attachments/assets/876cd244-9ebf-486d-9dd8-f46dbbac8e4e" />
+<img width="383" height="790" alt="Screenshot 2026-09-02 142940" src="https://github.com/user-attachments/assets/9826623e-3b6f-4613-9302-070c0984c55a" />
+<img width="405" height="855" alt="Screenshot 2026-09-02 123419" src="https://github.com/user-attachments/assets/d5398568-7cc2-47a4-804a-3d72677ed2ec" />
+<img width="403" height="852" alt="Screenshot 2026-09-02 123346" src="https://github.com/user-attachments/assets/9bf37a57-8d7e-4dcb-ab37-17391293c535" />
+<img width="406" height="858" alt="Screenshot 2026-09-02 124440" src="https://github.com/user-attachments/assets/82d54ad7-af03-4e75-bdb7-c9409862e38c" />
+
                     
                     ================================== Sign In =================================
                     
