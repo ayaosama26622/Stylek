@@ -101,50 +101,53 @@ check out, with a soft pastel design system and full light/dark theming.
 
                    ================================== Home ====================================
                    
-<img width="366" height="782" alt="image" src="https://github.com/user-attachments/assets/04de90e5-ee8f-4ce2-8cf9-c890a5bd936f" />
-<img width="367" height="783" alt="image" src="https://github.com/user-attachments/assets/b8027ee5-5a86-4d2b-8e20-17c42ef7c810" />
-<img width="369" height="783" alt="image" src="https://github.com/user-attachments/assets/098e2a4c-e046-471d-8427-2b1873a76b54" />
-<img width="370" height="783" alt="image" src="https://github.com/user-attachments/assets/d1b90cc9-b786-4230-85bf-300146d351a0" />
-<img width="370" height="780" alt="image" src="https://github.com/user-attachments/assets/b925b7b6-baab-4706-b1b7-85b14d667b7f" />
-<img width="368" height="784" alt="image" src="https://github.com/user-attachments/assets/3dfd35d4-ad68-45fe-88da-20430ae7e487" />
-<img width="366" height="783" alt="image" src="https://github.com/user-attachments/assets/839c915b-7967-4403-a339-2f1a12c548c2" />
-<img width="372" height="773" alt="image" src="https://github.com/user-attachments/assets/b1503473-ee5d-4240-9f3a-7d04832764d5" />
-
+<img width="384" height="814" alt="image" src="https://github.com/user-attachments/assets/307a7b26-b737-482c-a808-d489e52336ee" />
+<img width="380" height="820" alt="image" src="https://github.com/user-attachments/assets/da82dfae-57e0-49b4-920c-4483a21a4dbe" />
+<img width="382" height="814" alt="image" src="https://github.com/user-attachments/assets/9c21dcf6-53a2-43e0-9e62-79ef275dc6bf" />
+<img width="384" height="818" alt="image" src="https://github.com/user-attachments/assets/00d65d40-7039-4f27-8c4f-4d248fce7fe3" />
+<img width="378" height="814" alt="image" src="https://github.com/user-attachments/assets/6980d7e2-2799-45a3-8b55-140cda66d455" />
+<img width="384" height="814" alt="image" src="https://github.com/user-attachments/assets/c336bacd-acbf-4554-8ddc-de1ef01e972b" />
+<img width="379" height="815" alt="image" src="https://github.com/user-attachments/assets/8ad70b5c-fe78-4277-ae79-d154bf37d568" />
+<img width="382" height="814" alt="image" src="https://github.com/user-attachments/assets/c4d74fec-155c-493d-bc85-8e6e69b11c52" />
+<img width="382" height="814" alt="image" src="https://github.com/user-attachments/assets/f9efa384-abd8-4de0-8271-478e31fb5383" />
+<img width="381" height="817" alt="image" src="https://github.com/user-attachments/assets/bebe001b-d514-4f65-8043-3e4cdbca0009" />
+                   
                    ================================== Categories ==============================
                    
-<img width="366" height="784" alt="image" src="https://github.com/user-attachments/assets/7b6d5dc1-2a3e-428e-b5a8-6a47349b2c5c" />
-<img width="368" height="783" alt="image" src="https://github.com/user-attachments/assets/997eedab-4e44-466d-8cd4-5b8ac9bfdb51" />
-<img width="367" height="778" alt="image" src="https://github.com/user-attachments/assets/741dda50-0bfe-43f8-96b4-b9bf4c8f615e" />
-<img width="365" height="781" alt="image" src="https://github.com/user-attachments/assets/45c0244a-3c1d-4a48-a275-b8c904d88217" />
+<img width="382" height="817" alt="image" src="https://github.com/user-attachments/assets/1770acbe-3703-4dc2-915b-dd72a9c35282" />
+<img width="383" height="815" alt="image" src="https://github.com/user-attachments/assets/5e9897da-fe4b-40f9-8bdf-4a856c984804" />
+<img width="384" height="817" alt="image" src="https://github.com/user-attachments/assets/d9970622-c6c4-41b9-b8d4-cb059fbe12d4" />
+<img width="380" height="817" alt="image" src="https://github.com/user-attachments/assets/daa57679-930c-45d5-ad5d-57240d6d9d84" />
+<img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/7fd98bf5-51a0-4693-b41b-4bb29d196878" />
                    
                    ==================================Search ===================================
 
-<img width="366" height="780" alt="image" src="https://github.com/user-attachments/assets/1698c9ed-989c-4038-b308-8357d878a162" />
-<img width="367" height="783" alt="image" src="https://github.com/user-attachments/assets/d20c3364-57af-4b3a-bcc0-ad8c14144ce4" />
-<img width="365" height="783" alt="image" src="https://github.com/user-attachments/assets/98a71302-d9eb-45f9-9ea4-1688a9cf8a85" />
-<img width="374" height="781" alt="image" src="https://github.com/user-attachments/assets/69df6708-f583-4a18-a6fc-6e84fe8f5430" />
+<img width="379" height="818" alt="image" src="https://github.com/user-attachments/assets/a55fb4ff-6784-4389-ae06-db146f030b8b" />
+<img width="386" height="824" alt="image" src="https://github.com/user-attachments/assets/9f28cb35-f3f7-4948-8a1b-658382088b3a" />
+<img width="375" height="811" alt="image" src="https://github.com/user-attachments/assets/39bfc404-b29c-4860-b255-a1741cccdfee" />
+<img width="384" height="816" alt="image" src="https://github.com/user-attachments/assets/d95438ae-2306-4e98-a180-d4b7bd08ff32" />
                   
                   ================================== Filter===================================
 
-<img width="367" height="781" alt="image" src="https://github.com/user-attachments/assets/29b5230c-b3ed-4399-bb6a-d6b1f2c16319" />
-<img width="372" height="782" alt="image" src="https://github.com/user-attachments/assets/db4c629c-c1ef-479a-8e40-97dc6a82fade" />
-<img width="367" height="782" alt="image" src="https://github.com/user-attachments/assets/c69117fa-4cf0-4e51-b33d-df904cdc0b00" />
-<img width="370" height="784" alt="image" src="https://github.com/user-attachments/assets/b37d8787-c7c9-46db-b814-49778e8e2cf8" />
-<img width="368" height="781" alt="image" src="https://github.com/user-attachments/assets/32a6f3b8-f87e-4375-921a-32285313bae4" />
-<img width="364" height="782" alt="image" src="https://github.com/user-attachments/assets/b6b64097-2d34-4e0c-b4ac-bf6b34e816f2" />
-<img width="366" height="783" alt="image" src="https://github.com/user-attachments/assets/fd900db9-050f-4a79-9e8c-120099035546" />
-                 
+<img width="380" height="817" alt="image" src="https://github.com/user-attachments/assets/f0a89198-f0ed-4522-a548-941411076296" />
+<img width="376" height="819" alt="image" src="https://github.com/user-attachments/assets/8ded09fa-0f66-49b6-bf6d-cc8d9a241fdb" />
+<img width="382" height="819" alt="image" src="https://github.com/user-attachments/assets/561b826e-4887-4244-b2ef-aed103e96702" />
+<img width="382" height="819" alt="image" src="https://github.com/user-attachments/assets/35b72342-1da3-444f-b77d-23682793656d" />
+<img width="381" height="815" alt="image" src="https://github.com/user-attachments/assets/a78b287a-fd00-464c-bb81-91bcf6aa417a" />
+<img width="377" height="816" alt="image" src="https://github.com/user-attachments/assets/968d2df3-c11d-4446-8112-14bc6e02de66" />
+<img width="383" height="817" alt="image" src="https://github.com/user-attachments/assets/1ed27fa7-042f-44a4-b150-2d4838674deb" />
+              
                    ================================== Product Details =========================
-                   
-<img width="367" height="780" alt="image" src="https://github.com/user-attachments/assets/25557e0d-e773-4de6-9669-f4c30b14d5d6" />
-<img width="369" height="778" alt="image" src="https://github.com/user-attachments/assets/e7d7f597-c7a6-4e38-9b7c-cffa47d074df" />
-<img width="365" height="780" alt="image" src="https://github.com/user-attachments/assets/00ae4359-8f99-4a32-ae45-73a981794912" />
-<img width="368" height="782" alt="image" src="https://github.com/user-attachments/assets/d08c5051-9bda-49fb-8fbe-38e43bd1cf86" />
-<img width="365" height="784" alt="image" src="https://github.com/user-attachments/assets/dc8b30d5-8bc4-471d-96b2-ff78d45cd3b6" />
-<img width="370" height="779" alt="image" src="https://github.com/user-attachments/assets/8ce8773a-107e-482b-aeea-81b7966f5acd" />
-<img width="367" height="781" alt="image" src="https://github.com/user-attachments/assets/aa8a0f7d-84f3-415f-8784-54efd8dcd801" />
-<img width="367" height="784" alt="image" src="https://github.com/user-attachments/assets/cce01a87-cc77-46d7-9761-9bd2775635b0" />
 
+<img width="381" height="819" alt="image" src="https://github.com/user-attachments/assets/1d18fada-cc2f-4617-889f-124f45af0fd6" />
+<img width="379" height="813" alt="image" src="https://github.com/user-attachments/assets/355f624b-1e3c-4978-bdec-5dbc90bcf8f9" />
+<img width="379" height="817" alt="image" src="https://github.com/user-attachments/assets/9eed46f1-0590-4735-856b-c11f298e78dd" />
+<img width="384" height="811" alt="image" src="https://github.com/user-attachments/assets/dbf21f72-c30f-428d-a569-89d1105e00a0" />
+<img width="383" height="817" alt="image" src="https://github.com/user-attachments/assets/5b3bf795-cdb0-4f59-88b1-daced6bfcb3d" />
+<img width="387" height="818" alt="image" src="https://github.com/user-attachments/assets/c031803e-ae58-44b9-8fdc-5a1dfc33b2bc" />
+<img width="383" height="816" alt="image" src="https://github.com/user-attachments/assets/59d70b98-6bdf-44ed-a90b-1aa5a158a6b3" />
+<img width="383" height="814" alt="image" src="https://github.com/user-attachments/assets/60edeef2-7a05-4da9-8a7f-4d9f3d75aa89" />
+                   
                    ================================== Favorites ===============================
                    
 <img width="368" height="782" alt="image" src="https://github.com/user-attachments/assets/973b8b9e-18d4-412c-ac95-dcc9952ab290" />
@@ -185,18 +188,20 @@ check out, with a soft pastel design system and full light/dark theming.
 
                       ================================== Profile =================================
                       
-<img width="365" height="781" alt="image" src="https://github.com/user-attachments/assets/fccb8bf9-a55f-4ca7-9757-598f6960fde5" />
-<img width="362" height="779" alt="image" src="https://github.com/user-attachments/assets/86ecb4fa-1083-46f0-b2ba-34f6db591d81" />
-<img width="367" height="780" alt="image" src="https://github.com/user-attachments/assets/80187a49-0877-4250-a59e-24942a81f36c" />
-<img width="367" height="782" alt="image" src="https://github.com/user-attachments/assets/a081debe-17a4-4ef7-913d-8ecbc2cd2e36" />
-<img width="366" height="777" alt="image" src="https://github.com/user-attachments/assets/164a06bd-c7f3-4866-bcb7-4a0eedb5ea97" />
-<img width="369" height="781" alt="image" src="https://github.com/user-attachments/assets/8e308d6e-0ad9-4763-a3a3-4a85fbeb7e0a" />
-<img width="367" height="779" alt="image" src="https://github.com/user-attachments/assets/329ba586-d422-492c-9f71-bda6d6c099d3" />
-                     
+<img width="384" height="815" alt="image" src="https://github.com/user-attachments/assets/e8c0a846-c34f-4ef2-8ac0-c41aae58312b" />
+<img width="378" height="817" alt="image" src="https://github.com/user-attachments/assets/72438eb9-d309-4e16-9b5b-e33c5f2920f7" />                      
+<img width="379" height="819" alt="image" src="https://github.com/user-attachments/assets/65c9c663-5f57-475a-b9c8-57e473f19677" />
+<img width="381" height="816" alt="image" src="https://github.com/user-attachments/assets/729d086d-2d72-4c6f-b526-b69eb4f4bf9c" />
+<img width="377" height="819" alt="image" src="https://github.com/user-attachments/assets/098c1031-9e94-447c-b7ed-918883b3b2eb" />
+<img width="378" height="815" alt="image" src="https://github.com/user-attachments/assets/1939fb4d-dd6c-43e4-8ce9-5eea627da758" />
+                                           
                       ================================== Edit Profile ============================
                       
-<img width="367" height="785" alt="image" src="https://github.com/user-attachments/assets/5a282a76-9d9b-4404-ab3b-adbf3e7afd7f" />
-<img width="365" height="786" alt="image" src="https://github.com/user-attachments/assets/6435a850-3e51-4fab-badc-5c46731da7ad" />
+<img width="374" height="817" alt="image" src="https://github.com/user-attachments/assets/73114c6f-95cc-40f2-a809-2a35eba122db" />
+<img width="385" height="816" alt="image" src="https://github.com/user-attachments/assets/e4e7252a-e6e0-4f70-bb2e-35bc2e28db3f" />
+<img width="377" height="812" alt="image" src="https://github.com/user-attachments/assets/fab442e5-d060-4e72-9153-61085f2c1f2b" />
+                     
+
 
 ## 📂 Project Structure
 
