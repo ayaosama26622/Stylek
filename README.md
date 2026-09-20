@@ -149,21 +149,23 @@ check out, with a soft pastel design system and full light/dark theming.
 <img width="383" height="814" alt="image" src="https://github.com/user-attachments/assets/60edeef2-7a05-4da9-8a7f-4d9f3d75aa89" />
                    
                    ================================== Favorites ===============================
-                   
-<img width="368" height="782" alt="image" src="https://github.com/user-attachments/assets/973b8b9e-18d4-412c-ac95-dcc9952ab290" />
-<img width="367" height="778" alt="image" src="https://github.com/user-attachments/assets/78e7605f-afa6-4a99-bea4-ac96c392e366" />
-<img width="366" height="781" alt="image" src="https://github.com/user-attachments/assets/7ba96608-692f-4438-a19d-a7ea9da5f9e9" />
-<img width="366" height="783" alt="image" src="https://github.com/user-attachments/assets/7d5c04c6-0e97-4a84-a011-91385dfe0ab6" />
-<img width="366" height="782" alt="image" src="https://github.com/user-attachments/assets/85d25d65-6298-4dcf-8684-1d35a7754b09" />
-<img width="367" height="781" alt="image" src="https://github.com/user-attachments/assets/020fb87c-7632-43dd-ab85-6590cc0ae4e8" />
-<img width="365" height="782" alt="image" src="https://github.com/user-attachments/assets/775f5c8b-189a-425f-bbbc-c6ca6cd0b013" />
+
+<img width="382" height="819" alt="image" src="https://github.com/user-attachments/assets/0b76aefe-18b2-45f0-a6e2-3954201401ca" />
+<img width="380" height="815" alt="image" src="https://github.com/user-attachments/assets/fd33f374-940d-459f-80ab-6f45bf0d003c" />
+<img width="379" height="812" alt="image" src="https://github.com/user-attachments/assets/31b80ff0-59b6-433e-a01f-d8b790511a45" />
+<img width="381" height="815" alt="image" src="https://github.com/user-attachments/assets/748bbacd-3c46-4828-8986-663a8b6b5c9c" />
+<img width="383" height="819" alt="image" src="https://github.com/user-attachments/assets/e10f42be-6687-4e7a-8c99-09ee538687fb" />
+<img width="386" height="814" alt="image" src="https://github.com/user-attachments/assets/bcfa80de-14de-4fa9-aa88-fa7f3379ea57" />
+<img width="385" height="816" alt="image" src="https://github.com/user-attachments/assets/94166a48-4721-4068-ac92-993e7b47f414" />
+<img width="385" height="815" alt="image" src="https://github.com/user-attachments/assets/681db748-3266-4a18-a890-eb6e8f56b43a" />
+<img width="381" height="815" alt="image" src="https://github.com/user-attachments/assets/2092aea5-8b18-45bb-8e17-bd2ebbc0f807" />
 
                     ================================== Cart ====================================
 
-<img width="366" height="784" alt="image" src="https://github.com/user-attachments/assets/c7d4bc87-6c3d-4236-afdd-c9efb4a60bc6" />
-<img width="364" height="781" alt="image" src="https://github.com/user-attachments/assets/536c2f06-2fb9-4019-9fa2-44461e2b2127" />
-<img width="368" height="783" alt="image" src="https://github.com/user-attachments/assets/fb756e81-9848-4191-8dc8-0e0485fb3b45" />
-<img width="369" height="781" alt="image" src="https://github.com/user-attachments/assets/b65cd151-58f0-452d-8963-b8b5174a11a6" />
+<img width="384" height="819" alt="image" src="https://github.com/user-attachments/assets/41f9bd24-a0e0-49f4-8bca-c7e1f9c8010d" />
+<img width="389" height="815" alt="image" src="https://github.com/user-attachments/assets/8f0d3805-56f4-4139-909c-48c8de3cda9b" />
+<img width="384" height="815" alt="image" src="https://github.com/user-attachments/assets/ef76d0bb-158a-4dd2-8a76-51f8753ce2d9" />
+<img width="379" height="813" alt="image" src="https://github.com/user-attachments/assets/62f267d8-c2d3-4e0c-8c65-c29b66f2a70e" />
 
                      ================================== Checkout ================================
 
