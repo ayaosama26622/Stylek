@@ -161,32 +161,33 @@ check out, with a soft pastel design system and full light/dark theming.
 <img width="381" height="815" alt="image" src="https://github.com/user-attachments/assets/2092aea5-8b18-45bb-8e17-bd2ebbc0f807" />
 
                     ================================== Cart ====================================
-
+                    
+<img width="379" height="813" alt="image" src="https://github.com/user-attachments/assets/62f267d8-c2d3-4e0c-8c65-c29b66f2a70e" />
 <img width="384" height="819" alt="image" src="https://github.com/user-attachments/assets/41f9bd24-a0e0-49f4-8bca-c7e1f9c8010d" />
 <img width="389" height="815" alt="image" src="https://github.com/user-attachments/assets/8f0d3805-56f4-4139-909c-48c8de3cda9b" />
 <img width="384" height="815" alt="image" src="https://github.com/user-attachments/assets/ef76d0bb-158a-4dd2-8a76-51f8753ce2d9" />
-<img width="379" height="813" alt="image" src="https://github.com/user-attachments/assets/62f267d8-c2d3-4e0c-8c65-c29b66f2a70e" />
 
                      ================================== Checkout ================================
+                     
+<img width="382" height="818" alt="image" src="https://github.com/user-attachments/assets/70cbf917-c8f1-4180-81f3-5dc83eee2984" />
+<img width="383" height="815" alt="image" src="https://github.com/user-attachments/assets/d5face29-72ba-4c21-b843-66966165f14d" />
+<img width="384" height="818" alt="image" src="https://github.com/user-attachments/assets/ed7341bf-0280-4a2f-bfdb-144487633abc" />
+<img width="381" height="815" alt="image" src="https://github.com/user-attachments/assets/6a452db8-676c-4c74-b407-1f245fe46df8" />
+<img width="385" height="817" alt="image" src="https://github.com/user-attachments/assets/d45d32c0-5e52-485c-8fe9-2af00412b084" />
+<img width="382" height="818" alt="image" src="https://github.com/user-attachments/assets/8cc416e5-9b5d-4bb9-b0d5-0fac4efefa37" />
+<img width="382" height="815" alt="image" src="https://github.com/user-attachments/assets/79da9f91-6124-47a8-8ee3-0f8fff53dbff" />
 
-<img width="365" height="782" alt="image" src="https://github.com/user-attachments/assets/fbeef268-eef5-41e2-9da0-5a4c6014a234" />
-<img width="363" height="779" alt="image" src="https://github.com/user-attachments/assets/3efabb04-a422-4cf9-8d75-55dbd3cf29f1" />
-<img width="367" height="784" alt="image" src="https://github.com/user-attachments/assets/57647104-c10c-4ffc-8c18-99156b78a5fc" />
-<img width="365" height="784" alt="image" src="https://github.com/user-attachments/assets/ba83f6d5-85fd-4b68-8441-058edab1d9c3" />
-<img width="366" height="784" alt="image" src="https://github.com/user-attachments/assets/0a8b23d4-1891-4b05-9bb9-66b2b255adea" />
-<img width="367" height="780" alt="image" src="https://github.com/user-attachments/assets/7b3106f2-0deb-4ebd-97c1-53d92ef71e05" />
- 
                        ================================== Invoice =================================
-
-<img width="368" height="780" alt="image" src="https://github.com/user-attachments/assets/87d8171d-9c18-463d-a73f-a8d3c801fc3c" />
-<img width="366" height="780" alt="image" src="https://github.com/user-attachments/assets/c657f363-5219-48b5-8b35-5f5e60d47f5a" />
-<img width="372" height="785" alt="image" src="https://github.com/user-attachments/assets/e0c0338d-50f8-4299-a9f9-35128cd3ad8f" />
+                       
+<img width="379" height="812" alt="image" src="https://github.com/user-attachments/assets/4e93bdae-19c0-4d12-8a08-fed21847999a" />
+<img width="386" height="821" alt="image" src="https://github.com/user-attachments/assets/6052120b-c711-4f99-8380-86243283807a" />
+<img width="386" height="813" alt="image" src="https://github.com/user-attachments/assets/f8bdd0e7-24a8-4436-aa41-ff783c6088b5" />
 
                        ================================== My Orders ===============================
                        
-<img width="368" height="783" alt="image" src="https://github.com/user-attachments/assets/0eca3888-ba88-4a31-b59a-2d2267d43768" />
-<img width="375" height="782" alt="image" src="https://github.com/user-attachments/assets/f94075b7-10d6-401e-9060-df9007220366" />
-<img width="369" height="782" alt="image" src="https://github.com/user-attachments/assets/786397a4-3770-4492-8942-8accb3254f9b" />
+<img width="385" height="817" alt="image" src="https://github.com/user-attachments/assets/9c3854b4-74b3-47a4-b2b5-cac4839883c7" />
+<img width="389" height="816" alt="image" src="https://github.com/user-attachments/assets/3a74503b-4595-4426-8ef8-2238de45e9fd" />
+<img width="385" height="817" alt="image" src="https://github.com/user-attachments/assets/45ceb79b-fdee-4730-ba4d-baae996f17fe" />
 
                       ================================== Profile =================================
                       
