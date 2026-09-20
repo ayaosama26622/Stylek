@@ -44,9 +44,6 @@ check out, with a soft pastel design system and full light/dark theming.
 
                     ================================== Onboarding ==============================
 
-<img width="368" height="781" alt="Screenshot 2026-09-02 142159" src="https://github.com/user-attachments/assets/2067d083-09e1-4e68-bde1-0da971e3ef36" />
-<img width="370" height="780" alt="Screenshot 2026-09-02 142247" src="https://github.com/user-attachments/assets/bc5d49e2-ec8a-4bea-a296-97ca7ff33df5" />
-<img width="365" height="781" alt="Screenshot 2026-09-02 142224" src="https://github.com/user-attachments/assets/e6df026d-3dd3-4420-a453-7b6772c76240" />
 <img width="368" height="783" alt="Screenshot 2026-09-02 143027" src="https://github.com/user-attachments/assets/a6fbd530-e7cb-43e0-852e-b98371410132" />
 <img width="369" height="786" alt="Screenshot 2026-09-02 143010" src="https://github.com/user-attachments/assets/876cd244-9ebf-486d-9dd8-f46dbbac8e4e" />
 <img width="383" height="790" alt="Screenshot 2026-09-02 142940" src="https://github.com/user-attachments/assets/9826623e-3b6f-4613-9302-070c0984c55a" />
